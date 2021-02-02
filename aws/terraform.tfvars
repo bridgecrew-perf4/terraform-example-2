@@ -1,0 +1,5 @@
+name = "example"
+web_port = "80"
+api_port = "81"
+db_username = "exampleuser"
+db_password = "pass4exampleuser"
